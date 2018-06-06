@@ -1,3 +1,5 @@
 first text
 
 line in branch 1
+
+line 2 in branch 1
